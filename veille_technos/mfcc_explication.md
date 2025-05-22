@@ -28,7 +28,7 @@ Le calcul des MFCC suit un processus en plusieurs étapes qui transforme un sign
 
 6. **Transformation en cosinus discrète (DCT)** : Application d'une DCT pour décorréler les coefficients logarithmiques, produisant les MFCC finaux. Généralement, seuls les 13 à 20 premiers coefficients sont conservés.
 
-![Schéma du processus MFCC](https://i.imgur.com/illustration_mfcc.png)
+![Schéma du processus MFCC](https://i.imgur.com/UANHXoU.png)
 
 ## Pourquoi utiliser l'échelle de Mel ?
 

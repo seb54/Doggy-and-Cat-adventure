@@ -1,0 +1,81 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Fichiers audio
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.aac
+
+# Données et résultats
+data/
+results/
+models/
+*.npy
+*.npz
+*.pkl
+*.h5
+*.json
+
+# Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Images générées
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# Logs et fichiers temporaires
+logs/
+*.log
+.DS_Store
+Thumbs.db
+.directory
+*.swp
+*~
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.spyproject
+.ropeproject
+
+# Fichiers de configuration spécifiques
+config.ini
+credentials.json
+token.json 
