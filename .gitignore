@@ -30,11 +30,11 @@ env.bak/
 venv.bak/
 
 # Fichiers audio
-*.wav
-*.mp3
-*.ogg
-*.flac
-*.aac
+# *.wav
+# *.mp3
+# *.ogg
+# *.flac
+# *.aac
 
 # Données et résultats
 results/
