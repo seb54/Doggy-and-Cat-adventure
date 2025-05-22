@@ -37,7 +37,6 @@ venv.bak/
 *.aac
 
 # Données et résultats
-data/
 results/
 models/
 *.npy
